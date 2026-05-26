@@ -1,5 +1,7 @@
 # quant-experiments
 
+> A consolidated home for my earlier Python quant work — originally scattered across many small standalone repos, now organized into one place so it's easier to browse, revisit, and build on.
+
 A collection of quant-finance experiments in Python — backtesting trading ideas, computing risk metrics, modelling volatility, and pricing options. Each subfolder is a small, self-contained project with its own code, notebook, and notes.
 
 ---
